@@ -1,6 +1,6 @@
 {
   "name": "react-native-keyboard-responsive-value",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A React Native utility hook for managing values based on keyboard visibility.",
   "main": "index.js",
   "scripts": {
