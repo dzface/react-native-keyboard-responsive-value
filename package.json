@@ -1,0 +1,23 @@
+{
+  "name": "react-native-keyboard-responsive-value",
+  "version": "1.0.0",
+  "description": "A React Native utility hook for managing values based on keyboard visibility.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": ["react-native", "keyboard", "keyboard responsive-utility"],
+  "author": "dzface <dzface031@gmail.com> (https://github.com/dzface)",
+  "contributors": [
+    "dzface <dzface031@gmail.com> (https://github.com/dzface)"
+  ],
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">=16.0.0",
+    "react-native": ">=0.35"
+  }
+}
