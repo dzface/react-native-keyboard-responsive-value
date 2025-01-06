@@ -6,12 +6,14 @@
 npm i react-native-keyboard-responsive-value
 ```
 #### Description
-This library is available in React Native.
-Simply use the flexible value() function to set the value when the keyboard is not present and the value when the keyboard appears as a parameter to return the second parameter value when the keyboard appears.
-Parameters and return values can be numeric and stringed.
-It's my first time making it, and I think it will be lacking a lot.
-If there is a problem, please leave a problem in the github issue.
-Thank you.
+This library is designed for React Native and provides an easy way to manage values when the keyboard is present or hidden.<br>
+Simply use the flexible value() function, which takes two parameters: the first for when the keyboard is not visible and the second for when it appears.<br> 
+The function will return the appropriate value based on the keyboard's state.<br>
+Both numeric and string values are supported as parameters and return types.<br>
+As this is my first attempt at creating a library, it may have some shortcomings. <br>
+If you encounter any issues, please feel free to report them in the GitHub issues section.<br>
+
+Thank you for your support!
 
 #### Example
 
